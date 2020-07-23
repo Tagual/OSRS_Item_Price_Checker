@@ -6,7 +6,7 @@ looking at requesting this data through OSRSBox or a similar website.
 
 Need to add:
 
-  Loops, 
+  Loops, for example if the user wants to carry on searching,
   
   Adjust for errors in typing e.g. rune LONGsword would be fine
     instead of correct spelling 'Rune longsword',
