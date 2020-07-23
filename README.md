@@ -6,7 +6,10 @@ looking at requesting this data through OSRSBox or a similar website.
 
 Need to add:
   Loops, 
+  
   Adjust for errors in typing e.g. rune LONGsword would be fine
     instead of correct spelling 'Rune longsword',
+    
   Partial item matches, display a list and select from which one,
+  
   Multiple items
